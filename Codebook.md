@@ -88,6 +88,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ### Description of variables
 
 "subject" - number of subject under study, 1-30
+
 "activity" - name of activity, one of: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS", "WALKING_UPSTAIRS"
 
 Description of the rest of variables: (source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, "UCI HAR Dataset" folder, features_info.txt file)
